@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">👋 Merhaba! Ben Şahincan Topaldemir</h1>
 
+<p align="center">
+  Full-Stack Software Developer | AI-Integrated Product Builder<br>
+  Founder @ Redora, Redora Cloud, Redora Data
+</p>
+
+---
+
+## 🚀 Hakkımda
+
+Redora çatısı altında **modern, AI destekli, kullanıcı odaklı dijital ürünler** geliştiriyorum.  
+Özelleştirilmiş yazılım çözümleri, bulut tabanlı hizmetler ve veri analitiği platformları üzerine çalışıyorum.
+
+- 🔭 Şu an üzerinde çalıştığım projeler:
+  - [Redora Cloud](https://cloud.redora.co) → VPS/VDS ve yazılım entegreli hosting altyapısı
+  - [Redora Data](https://data.redora.co) → GPT destekli veri kazıma ve analiz sistemi
+  - [Chess.Redora.co](https://chess.redora.co) → AI destekli öğretici satranç platformu
+
+- 🧠 İlgi Alanlarım:  
+  `AI Agents · Cloud Systems · Firebase · Full-stack Development · Prompt Engineering · SEO Tools`
+
+- 📫 Bana ulaş:  
+  [stopaldemir.com](https://stopaldemir.com) · [g.dev/stopaldemir](https://g.dev/stopaldemir)  
+  [LinkedIn](https://www.linkedin.com/in/stopaldemir) · [GitHub](https://github.com/stopaldemir)
+
+---
+
+## 🏆 Sertifikalar & Rozetler
+
+- 🧠 **Gemini Code Assist – Private Preview Access**  
+- 🔥 **Firebase Studio Developer – Community Recognition**  
+- ☁️ **Google Cloud Innovator**  
+- 🧬 [g.dev/stopaldemir](https://g.dev/stopaldemir) profiline resmi erişim
+
+---
 <!--
-**stopaldemir/stopaldemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📂 Öne Çıkan Projeler
 
-Here are some ideas to get you started:
+| Proje | Açıklama |
+|-------|----------|
+| 🔗 [redora-gpt-scraper](https://github.com/stopaldemir/redora-gpt-scraper) | Gemini ile entegre web veri kazıyıcı (Redora Data'nın altyapısı) |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+> 💡 Daha fazla için repolara göz atın veya beni takip edin!
 -->
+
+
+
