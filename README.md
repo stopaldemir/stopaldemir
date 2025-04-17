@@ -1,49 +1,38 @@
-<h1 align="center">👋 Merhaba! Ben Şahincan Topaldemir</h1>
+<h1 align="center">👋 Hello! I'm Şahincan Topaldemir</h1>
 
 <p align="center">
   Full-Stack Software Developer | AI-Integrated Product Builder<br>
-  Founder @ Redora, Redora Cloud, Redora Data
+  Founder @ Redora, Redora Cloud
 </p>
 
 ---
 
-## 🚀 Hakkımda
+## 🚀 About Me
 
-Redora çatısı altında **modern, AI destekli, kullanıcı odaklı dijital ürünler** geliştiriyorum.  
-Özelleştirilmiş yazılım çözümleri, bulut tabanlı hizmetler ve veri analitiği platformları üzerine çalışıyorum.
+Under the Redora brand, I build **modern, AI-powered, user-centric digital products**.  
+My main focus is on tailored software solutions, cloud-based infrastructure, and data analytics platforms.
 
-- 🔭 Şu an üzerinde çalıştığım projeler:
-  - [Redora Cloud](https://cloud.redora.co) → VPS/VDS ve yazılım entegreli hosting altyapısı
-  - [Redora Data](https://data.redora.co) → GPT destekli veri kazıma ve analiz sistemi
-  - [Chess.Redora.co](https://chess.redora.co) → AI destekli öğretici satranç platformu
+- 🔭 Currently working on:
+  - [Redora Cloud](https://cloud.redora.co) → VPS/VDS and software-integrated hosting infrastructure  
+  - [Redora Data](https://data.redora.co) → GPT-powered data scraping and analysis system  
+  - [Chess.Redora.co](https://chess.redora.co) → AI-driven interactive chess learning platform  
 
-- 🧠 İlgi Alanlarım:  
-  `AI Agents · Cloud Systems · Firebase · Full-stack Development · Prompt Engineering · SEO Tools`
+- 🧠 Interests:  
+  `AI Agents · Cloud Systems · Firebase · Full-Stack Development · Prompt Engineering · SEO Tools`
 
-- 📫 Bana ulaş:  
+- 📫 Reach out:  
   [stopaldemir.com](https://stopaldemir.com) · [g.dev/stopaldemir](https://g.dev/stopaldemir)  
   [LinkedIn](https://www.linkedin.com/in/stopaldemir) · [GitHub](https://github.com/stopaldemir)
 
 ---
 
-## 🏆 Sertifikalar & Rozetler
+## 📂 Featured Projects
 
-- 🧠 **Gemini Code Assist – Private Preview Access**  
-- 🔥 **Firebase Studio Developer – Community Recognition**  
-- ☁️ **Google Cloud Innovator**  
-- 🧬 [g.dev/stopaldemir](https://g.dev/stopaldemir) profiline resmi erişim
+| Project | Description |
+|--------|-------------|
+| 🔗 [redora-x-translation-logger](https://github.com/stopaldemir/redora-x-translation-logger) | Lightweight Node.js backend for logging GPT-powered translations in `.jsonl` format. Built for Redora X. |
+| 🔗 [redora-x-gpt-translator](https://github.com/stopaldemir/redora-x-gpt-translator) | Chrome extension that translates tweets on X using GPT-3.5/4/4o with real-time detection and token optimization. |
+| 🔗 [redora-sheets-api](https://github.com/stopaldemir/redora-sheets-api) | API for generating GPT-based Excel formulas and structured tables. Built for automation & productivity. |
+| 🔗 [redora-maps-scraper](https://github.com/stopaldemir/redora-maps-scraper) | Google Maps business scraper that detects and collects data from search results in real-time. |
 
----
-<!--
-## 📂 Öne Çıkan Projeler
-
-| Proje | Açıklama |
-|-------|----------|
-| 🔗 [redora-gpt-scraper](https://github.com/stopaldemir/redora-gpt-scraper) | Gemini ile entegre web veri kazıyıcı (Redora Data'nın altyapısı) |
-
-
-> 💡 Daha fazla için repolara göz atın veya beni takip edin!
--->
-
-
-
+> 🚀 More projects available on my [GitHub](https://github.com/stopaldemir)
