@@ -15,7 +15,6 @@ My main focus is on tailored software solutions, cloud-based infrastructure, and
 - 🔭 Currently working on:
   - [Redora Cloud](https://cloud.redora.co) → VPS/VDS and software-integrated hosting infrastructure  
   - [Redora Data](https://data.redora.co) → GPT-powered data scraping and analysis system  
-  - [Chess.Redora.co](https://chess.redora.co) → AI-driven interactive chess learning platform  
 
 - 🧠 Interests:  
   `AI Agents · Cloud Systems · Firebase · Full-Stack Development · Prompt Engineering · SEO Tools`
@@ -33,6 +32,5 @@ My main focus is on tailored software solutions, cloud-based infrastructure, and
 | 🔗 [redora-x-translation-logger](https://github.com/stopaldemir/redora-x-translation-logger) | Lightweight Node.js backend for logging GPT-powered translations in `.jsonl` format. Built for Redora X. |
 | 🔗 [redora-x-gpt-translator](https://github.com/stopaldemir/redora-x-gpt-translator) | Chrome extension that translates tweets on X using GPT-3.5/4/4o with real-time detection and token optimization. |
 | 🔗 [redora-sheets-api](https://github.com/stopaldemir/redora-sheets-api) | API for generating GPT-based Excel formulas and structured tables. Built for automation & productivity. |
-| 🔗 [redora-maps-scraper](https://github.com/stopaldemir/redora-maps-scraper) | Google Maps business scraper that detects and collects data from search results in real-time. |
 
 > 🚀 More projects available on my [GitHub](https://github.com/stopaldemir)
