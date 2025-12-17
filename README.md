@@ -1,4 +1,4 @@
-# ⚡ ahincan Topaldemir
+# ⚡ Şahincan Topaldemir
 
 <p align="left">
   <img src="https://img.shields.io/badge/Role-Founder_@_Redora-blue?style=flat-square&logo=rocket" />
