@@ -26,5 +26,3 @@ yükte hafif pahada ağır, iş gören araçlar bütünü:
 * **iletişim:** [linkedin](https://www.linkedin.com/in/stopaldemir) - [email](mailto:contact@stopaldemir.com) - [web](https://stopaldemir.com)
 
 ---
-(bkz: doğru soruyu sorabilmek)
-(bkz: ölçeklenebilir mimari)
