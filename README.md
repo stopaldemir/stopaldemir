@@ -1,53 +1,30 @@
-# ⚡ Şahincan Topaldemir
+# şahincan topaldemir
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Role-Founder_@_Redora-blue?style=flat-square&logo=rocket" />
-  <img src="https://img.shields.io/badge/Focus-AI_Driven_SaaS-green?style=flat-square&logo=openai" />
-  <img src="https://img.shields.io/badge/Stack-Full--Stack_Developer-orange?style=flat-square&logo=typescript" />
-</p>
+2016 yılında, henüz 11 yaşındayken samp server’larına pawn dilinde script yazarak başladığı serüveni; bugün **redora** çatısı altında otonom ajanlar ve ölçeklenebilir saas mimarileriyle devam ettiren yazılımcı. 
 
-### `//` EXECUTION_LOGS
-Founder of **Redora**. Architecting intelligent digital ecosystems and AI-driven SaaS solutions. 
-My mission is to merge system architecture with business intelligence, building scalable products that deliver measurable business outcomes.
+diplomanın veya unvanın ötesinde, doğru soruyu sormanın her türlü problemi çözeceğine inanan; stajyerlikten ceo'luğa uzanan süreçte erp'den e-ticarete, endüstriyel üretimden ai entegrasyonuna kadar pek çok farklı mutfakta pişen kişi.
 
 ---
 
-### 🛠 TECH_ARSENAL
+### redora
+(bkz: [redora.co](https://redora.co))
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | TypeScript, JavaScript, Node.js |
-| **Frontend** | React.js, Next.js, Tailwind CSS |
-| **Backend & DB** | Node.js, PostgreSQL, Firebase |
-| **AI & Cloud** | LLMs (GPT-4/o), Fine-tuning, AWS, Docker |
-| **Infrastructure** | Microservices, Cloud Architecture, Scalable SaaS |
+### tech stack
+yükte hafif pahada ağır, iş gören araçlar bütünü:
+* **languages & runtime:** typescript, node.js
+* **frontend:** react.js, next.js, tailwind css
+* **backend & data:** postgresql, redis, mssql, firebase
+* **cloud & ai:** aws, docker, llms (gpt-4o), fine-tuning
 
----
-
-### 🚀 REDORA_ECOSYSTEM
-Currently directing the shift from traditional IT to fully AI-driven SaaS solutions.
-
-* **SaaS Focus:** 7+ live projects under development.
-* **Buliyo:** In-house sales ecosystem for B2B data filtering and business intelligence.
-* **Scalable Architecture:** Building modern infrastructure for high-performance digital products.
+### projeler
+* **arrengo:** etkinlik mekanları için dinamik oturma planı ve misafir yönetimi sağlayan saas. (bkz: 200+ işletme)
+* **goqr:** restoran ve kafelerin sipariş sürecini dijitalleştiren on-premise otomasyon.
+* **buliyo:** b2b veri filtreleme ve iş zekası odaklı satış ekosistemi.
 
 ---
 
-### 📊 SYSTEM_STATS
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=stopaldemir&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stopaldemir&layout=compact&theme=transparent&hide_border=true&title_color=007ACC" height="150" alt="top languages" />
-</p>
+* **iletişim:** [linkedin](https://www.linkedin.com/in/stopaldemir) - [email](mailto:contact@stopaldemir.com) - [web](https://stopaldemir.com)
 
 ---
-
-### 📡 CONNECT_WITH_ME
-"My channels are always open for new signals."
-
-* 🌐 **Website:** [stopaldemir.com](https://stopaldemir.com)
-* 💼 **LinkedIn:** [linkedin.com/in/stopaldemir](https://www.linkedin.com/in/stopaldemir)
-* 📧 **Email:** [contact@stopaldemir.com](mailto:contact@stopaldemir.com)
-* 🚀 **Company:** [redora.co](https://redora.co)
-
----
-
+(bkz: doğru soruyu sorabilmek)
+(bkz: ölçeklenebilir mimari)
