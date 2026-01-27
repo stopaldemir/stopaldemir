@@ -1,28 +1,29 @@
 # şahincan topaldemir
 
-2016 yılında, henüz 11 yaşındayken samp server’larına pawn dilinde script yazarak başladığı serüveni; bugün **redora** çatısı altında otonom ajanlar ve ölçeklenebilir saas mimarileriyle devam ettiren yazılımcı. 
-
-diplomanın veya unvanın ötesinde, doğru soruyu sormanın her türlü problemi çözeceğine inanan; stajyerlikten ceo'luğa uzanan süreçte erp'den e-ticarete, endüstriyel üretimden ai entegrasyonuna kadar pek çok farklı mutfakta pişen kişi.
+samp server’ları için pawn dilinde scriptler yazarak başladığı serüveni; bugün redora çatısı altında otonom ajanlar ve ölçeklenebilir saas mimarileriyle devam ettiren yazılımcı. stajyerlikten liderliğe uzanan süreçte erp sistemleri, e-ticaret altyapıları, endüstriyel üretim yazılımları ve ai entegrasyonu gibi pek çok farklı mutfakta pişen teknoloji girişimcisi.
 
 ---
 
 ### redora
-(bkz: [redora.co](https://redora.co))
+* klasik danışmanlık yapısından bir teknoloji stüdyosuna dönüşen; otonom ajan entegrasyonu, llm optimizasyonu ve yüksek performanslı multi-cloud mimarilere odaklanan yapı.
+* kurumsal süreçleri modernize ederek ölçeklenebilir saas ürünlerine dönüştürme üzerine çalışır.
+* (bkz: redora.co)
+
+### buliyo
+* işletmelerin dijital iskeletini analiz eden otonom bir veri bankası.
+* türkiye genelinde 300.000’den fazla işletmenin teknoloji yığınlarını, ssl durumlarını ve dijital ayak izlerini saniyeler içinde analiz ederek manuel segmentasyon süreçlerini ortadan kaldırır.
+* (bkz: buliyo.co)
 
 ### tech stack
 yükte hafif pahada ağır, iş gören araçlar bütünü:
-* **languages & runtime:** typescript, node.js
-* **frontend:** react.js, next.js, tailwind css
-* **backend & data:** postgresql, redis, mssql, firebase
-* **cloud & ai:** aws, docker, llms (gpt-4o), fine-tuning
-
-### projeler
-* **arrengo:** etkinlik mekanları için dinamik oturma planı ve misafir yönetimi sağlayan saas. (bkz: 200+ işletme)
-* **goqr:** restoran ve kafelerin sipariş sürecini dijitalleştiren on-premise otomasyon.
-* **buliyo:** b2b veri filtreleme ve iş zekası odaklı satış ekosistemi.
+* **languages & runtime:** typescript, node.js.
+* **frontend:** react.js, next.js, tailwind css.
+* **backend & data:** postgresql, redis, mssql.
+* **cloud & ai:** aws, docker, llms, fine-tuning.
 
 ---
 
-* **iletişim:** [linkedin](https://www.linkedin.com/in/stopaldemir) - [email](mailto:contact@stopaldemir.com) - [web](https://stopaldemir.com)
-
----
+### iletişim
+* **linkedin:** linkedin.com/in/stopaldemir
+* **email:** merhaba@stopaldemir.com
+* **web:** stopaldemir.com
